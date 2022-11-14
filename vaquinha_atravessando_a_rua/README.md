@@ -8,3 +8,6 @@
 * Divirta-se!
 
 [Vaquinha atravessando a rua](https://editor.p5js.org/mnsilva/full/lA9SSUbQG)
+
+![image](https://user-images.githubusercontent.com/67373586/201658723-910c652d-b0ee-4bad-946d-692041f7da80.png)
+
